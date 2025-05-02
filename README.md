@@ -14,8 +14,11 @@ pandas scikit-learn pyod matplotlib seaborn
 **Pipeline:**
 
 Cleans and encodes the dataset
+
 Scales numeric features
+
 Uses Isolation Forest to find outliers
+
 Flags unusual expense entries
 
 **Outputs:**
