@@ -1,6 +1,9 @@
 **expense_audit**
 Expense Audit Automation that detects anomalies in company expenses using pandas, scikit-learn, and pyod.
 
+**Dependencies**
+pandas scikit-learn pyod matplotlib seaborn
+
 **Pipeline**
 Cleans and encodes the dataset
 Scales numeric features
